@@ -1,3 +1,3 @@
-PUN 2 Example includes a simple multiplayer game that shows how can we use PUN 2 - Free package.
+Photon Fusion Example includes a simple multiplayer game that shows how can we use Photon Fusion 2 package.
 
-Dependencies: PUN 2 - Free
+Dependencies: Photon Fusion 2
